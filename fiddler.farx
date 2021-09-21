@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AutoResponder LastSave="2021-09-20T23:27:03.3439593+03:00" FiddlerVersion="5.0.20204.45441">
   <State Enabled="true" AcceptAllConnects="false" Fallthrough="true" UseLatency="false">
-    <ResponseRule Match="https://music.yandex.ru/index.js" Action="https://raw.githubusercontent.com/AriesAlex/yandex-music-30min-remover/master/index.js%253fv%3D1.913.0" Enabled="true" />
+    <ResponseRule Match="https://music.yandex.ru/index.js" Action="https://raw.githubusercontent.com/AriesAlex/yandex-music-30min-remover/master/index.js" Enabled="true" />
   </State>
 </AutoResponder>
