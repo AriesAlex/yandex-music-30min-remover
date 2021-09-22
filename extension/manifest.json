@@ -1,0 +1,14 @@
+{
+  "name": "Yandex Music 30Min Remover",
+  "description": "Убирает ограничение на воспроизведение в фоне на 30 минут. Хорошо сочетается с блокировщиками рекламы типа Adguard",
+  "version": "1.0",
+  "manifest_version": 2,
+  "background": {
+    "service_worker": "main.js"
+  },
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "*://*/*"
+  ]
+}
