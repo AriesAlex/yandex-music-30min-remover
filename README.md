@@ -3,6 +3,12 @@
 ## Инструкция
 1. Клонируем репозиторий
   
+![](tutorial/1.gif)
+  
+![](tutorial/2.gif)
+  
 2. Переходим на [chrome://extensions](chrome://extensions), включаем режим разработчика и добавляем папку extension как распакованное расширение
+  
+![](tutorial/3.gif)
 ## Fiddler
 Есть готовое правило для прокси-сервера Fiddler - **fiddler.farx**
