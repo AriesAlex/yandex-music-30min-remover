@@ -30,15 +30,25 @@
 Скопировать:
 ```
 Content-Security-Policy
+```
 
+```
 default-src * 'unsafe-inline' 'unsafe-eval'; script-src * 'unsafe-inline' 'unsafe-eval'; connect-src * 'unsafe-inline'; img-src * data: blob: 'unsafe-inline'; frame-src *; style-src * 'unsafe-inline';
+```
 
+```
 content-type
+```
 
+```
 text/javascript
+```
 
+```
 https://raw.githubusercontent.com/AriesAlex/yandex-music-30min-remover/master/index.js
+```
 
+```
 https://music.yandex.ru/index.js
 ```
 ## Fiddler
