@@ -10,10 +10,5 @@
     "webRequest",
     "webRequestBlocking",
     "*://*/*"
-  ],
-  "browser_specific_settings": {
-    "gecko": {
-      "id": "ariex0@mail.ru"
-    }
-  }
+  ]
 }
