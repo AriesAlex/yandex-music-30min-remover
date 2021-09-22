@@ -14,7 +14,7 @@
 ## Инструкция (через стороннее расширение)
 Инструкция если у вас Firefox. В нём не работает моё расширение
   
-1. Устанавливаем расширение [Requestly](https://chrome.google.com/webstore/detail/requestly-redirect-url-mo/mdnleldcmiljblolnjhpnblkcekpdkpa)
+1. Устанавливаем расширение [Requestly](https://app.requestly.io)
   
 
 2. Создаём следующие правила:
